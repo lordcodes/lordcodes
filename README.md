@@ -4,7 +4,7 @@ Hi, I’m Andrew Lord! I write Android and iOS apps, games and developer tools. 
 
 ### 📫 How to reach me
 
-- ✍🏼 Blog @ [lordcodes.com](https://www.lordcodes.com)
-- 🐦 Twitter @ [lordcodes](https://twitter.lordcodes.com)
-- 🐘 Mastodon @ [lordcodes](https://mastodon.lordcodes.com)
-- 🔗 LinkedIn @ [lordcodes](https://linkedin.lordcodes.com)
+- ✍🏼 Blog @[lordcodes.com](https://www.lordcodes.com)
+- 🐦 Twitter [@lordcodes](https://twitter.lordcodes.com)
+- 🐘 Mastodon [@lordcodes@androiddev.social](https://mastodon.lordcodes.com)
+- 🔗 LinkedIn @[lordcodes](https://linkedin.lordcodes.com)
